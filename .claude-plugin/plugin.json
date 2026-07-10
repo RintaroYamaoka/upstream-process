@@ -5,6 +5,8 @@
   "author": {
     "name": "Rintaro Yamaoka"
   },
+  "homepage": "https://github.com/RintaroYamaoka/upstream-process",
+  "repository": "https://github.com/RintaroYamaoka/upstream-process",
   "license": "MIT",
   "keywords": [
     "requirements-definition",
